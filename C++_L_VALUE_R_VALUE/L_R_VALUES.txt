@@ -1,0 +1,15 @@
+        L-VALUES 
+
+ - l-values are values that have names and
+    are addressable 
+- modifiable if they are not constants 
+- y = 100           - y = L-VALUE  
+- x  = x + y        - x = L-VALUE
+		    - (x + y) = R-VALUE 
+
+******************************************
+
+        R-VALUE
+
+- anything that is not an L-VALUE is an R-VALUE
+- R-VALUES can be assigned to L-VALUES explicitly 
