@@ -1,0 +1,1 @@
+ Mystring stooges = larry + "Moe"; 
